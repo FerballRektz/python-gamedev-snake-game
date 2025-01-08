@@ -1,5 +1,4 @@
 import sys
-import random
 import pygame
 import pygame.math as pygmath
 import snake_functions 
